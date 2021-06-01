@@ -27,15 +27,3 @@ cat * > artifactory_report.csv
 
 if you get python not found error, put your correct python exeuctable file name in the shell script
 
-## Finding Upload and Download Times of Artifacts
-Requirements to run the script:
-* Linux
-* Bash
-### Clone the repo
-### cd into repo
-### cd into find_uplaod_download_times.sh
-### bash initial-setup.sh <location>
-<location> is the location from where you are running the script
-example: bash initial-setup.sh elmsford
-### bash find_upload_download_time.sh <location>
-example: bash find_upload_download_time.sh elmsford
