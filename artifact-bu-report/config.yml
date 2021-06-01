@@ -1,0 +1,6 @@
+ldap:
+  url: 'ldap://xxxxx.ca.com:389'
+  username: 'CN=xxxxx,DC=ca,DC=com'
+  password: 'xxxxx'
+artifactory:
+  basic_auth_token: xxxxx
